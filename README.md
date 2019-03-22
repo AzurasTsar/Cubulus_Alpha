@@ -9,3 +9,5 @@ Controls: WASD to move, spacebar to jump, e to slow time (5 secs, 15 sec cooldow
 Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you huge, able to flatten cubes (10 second duration)
 
 current(in the next week) goals: health display, cooldown, and slow time ready displays, score tracking
+
+menu music by https://soundcloud.com/marbleocean, game music from http://freemusicarchive.org/music/Bio_Unit__Metre
