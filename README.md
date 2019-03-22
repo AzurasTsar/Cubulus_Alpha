@@ -10,6 +10,6 @@ Goal: (Classic) (WARNING: UNFINISHED) Go through all the (as-of-yet uncompleted)
 Controls: WASD to move, spacebar to jump, excape to pause, e to slow time (5 secs, 15 sec cooldown)
 Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you huge, able to flatten cubes (10 second duration)
 
-current(in the next week) goals: cooldown and slow time ready displays, score tracking
+current goals: cooldown and slow time ready displays, score tracking, Mac/Linux support
 
 menu music by https://soundcloud.com/marbleocean, game music from http://freemusicarchive.org/music/Bio_Unit__Metre
