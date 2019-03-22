@@ -5,7 +5,7 @@ Windows Installation Instructions: Download Cubulus.zip and UnityPlayer.dll to t
 
 'Classic" mode is in very early stage of development, 'Endless' mode is almost fully functional. I will be updating this often as I make more progress on it. Plan to improve UI, add more features and randomization, and try to make a more dynamic experience in the future. 
 
-Goal: (Classic) (WARNING: UNFINISHED) Go through all the (as-of-yet uncompleted) levels! (Endless) Make it as far as you can without dying! Avoid the cubes continuously spawning or get a pill and smash em!
+Goal: (Classic) (WARNING: UNFINISHED) Go through all the (as-of-yet uncompleted) levels! (Endless) Make it as far as you can without dying! Avoid the cubes continuously spawning or get a pill and smash them!
 
 Controls: WASD to move, spacebar to jump, excape to pause, e to slow time (5 secs, 15 sec cooldown)
 Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you huge, able to flatten cubes (10 second duration)
