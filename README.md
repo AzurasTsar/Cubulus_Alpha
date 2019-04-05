@@ -8,9 +8,9 @@ Windows Installation Instructions: Download Cubulus.zip and UnityPlayer.dll to t
 Goal: (Classic) (WARNING: UNFINISHED) Go through all the (as-of-yet uncompleted) levels! (Endless) Make it as far as you can without dying! Avoid the cubes continuously spawning or get a pill and smash them!
 
 Controls: WASD to move, spacebar to jump, escape to pause, e to slow time (5 secs, 15 sec cooldown)
-Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you huge, able to flatten cubes (10 second duration)
+Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you huge, able to flatten cubes (10 second duration+.05 per extra pill consumed during effect)
 
-current goals: cooldown and slow time ready displays, score tracking, Mac/Linux support
+current goals: expanding gameplay, Mac/Linux support
 
 menu music by https://soundcloud.com/marbleocean, game music from http://freemusicarchive.org/music/Bio_Unit__Metre
 last updated: 4/5/19
