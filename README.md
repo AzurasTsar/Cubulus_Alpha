@@ -1,7 +1,7 @@
 # Cubulus_Alpha
 Early alpha build for my first Unity game Cubulus
 
-Windows Installation Instructions: Download Cubulus.zip and UnityPlayer.dll to the same directory, extract Cubulus.zip to it and run Cubulus.exe
+Windows Installation Instructions: Download Cubulus[Version#].zip and UnityPlayer.dll to the same directory, extract Cubulus.zip to it and run Cubulus.exe
 
 'Classic" mode is in very early stage of development, 'Endless' mode is fully functional. I will be updating this often as I make more progress on it. Plan to improve UI, add more features and randomization, and try to make a more dynamic experience in the future. 
 
