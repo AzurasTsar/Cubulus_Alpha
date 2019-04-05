@@ -3,7 +3,7 @@ Early alpha build for my first Unity game Cubulus
 
 Windows Installation Instructions: Download Cubulus.zip and UnityPlayer.dll to the same directory, extract Cubulus.zip to it and run Cubulus.exe
 
-'Classic" mode is in very early stage of development, 'Endless' mode is almost fully functional. I will be updating this often as I make more progress on it. Plan to improve UI, add more features and randomization, and try to make a more dynamic experience in the future. 
+'Classic" mode is in very early stage of development, 'Endless' mode is fully functional. I will be updating this often as I make more progress on it. Plan to improve UI, add more features and randomization, and try to make a more dynamic experience in the future. 
 
 Goal: (Classic) (WARNING: UNFINISHED) Go through all the (as-of-yet uncompleted) levels! (Endless) Make it as far as you can without dying! Avoid the cubes continuously spawning or get a pill and smash them!
 
@@ -13,3 +13,4 @@ Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you
 current goals: cooldown and slow time ready displays, score tracking, Mac/Linux support
 
 menu music by https://soundcloud.com/marbleocean, game music from http://freemusicarchive.org/music/Bio_Unit__Metre
+last updated: 4/5/19
