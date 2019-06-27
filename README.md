@@ -1,4 +1,6 @@
 # Cubulus_Alpha
+DUE TO GITHUB'S FILE SIZE LIMIT, ALL VERSIONS FROM 1.2 ON CAN BE FOUND HERE: https://drive.google.com/open?id=1my8Bu6Wxs25faipohq-wJkUBi5nN_Z4F
+
 Early pre-alpha build for my first Unity game Cubulus, a synthwave-themed endless runner
 
 Windows Installation Instructions: Download Cubulus[Version#].zip and UnityPlayer.dll to the same directory, extract Cubulus.zip to it and run Cubulus.exe
@@ -12,6 +14,6 @@ Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you
 
 current goals: expanding gameplay, Mac/Linux support
 
-menu and game music by https://soundcloud.com/marbleocean, other game music from http://freemusicarchive.org/music/Bio_Unit__Metre
+menu and game music by https://soundcloud.com/marbleocean
 current version: 1.2
-last updated: 6/25/19
+last updated: 6/26/19
