@@ -1,5 +1,5 @@
 # Cubulus_Alpha
-DUE TO GITHUB'S FILE SIZE LIMIT, ALL VERSIONS FROM 1.2 ON CAN BE FOUND HERE: https://drive.google.com/open?id=1my8Bu6Wxs25faipohq-wJkUBi5nN_Z4F
+DUE TO GITHUB'S FILE SIZE LIMIT, ALL VERSIONS FROM 1.2 ON CAN BE FOUND HERE: https://drive.google.com/open?id=1my8Bu6Wxs25faipohq-wJkUBi5nN_Z4F Extract the files and run Cubulus.exe to play!
 
 Early pre-alpha build for my first Unity game Cubulus, a synthwave-themed endless runner
 
