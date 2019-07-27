@@ -21,5 +21,5 @@ Pickups: Diamonds increase speed slightly, increase health by 10, Pills make you
 current goals: expanding gameplay, Mac/Linux support
 
 all music by https://soundcloud.com/marbleocean
-current version: 1.2
-last updated: 6/26/19
+current version: 1.3
+last updated: 7/27/19
