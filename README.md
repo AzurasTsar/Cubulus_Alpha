@@ -1,5 +1,6 @@
 # Cubulus_Alpha
 DUE TO GITHUB'S FILE SIZE LIMIT, ALL VERSIONS FROM 1.2 ON CAN BE FOUND HERE: https://drive.google.com/open?id=1my8Bu6Wxs25faipohq-wJkUBi5nN_Z4F 
+version 1.3 (7/27/19) https://drive.google.com/open?id=1bY795zHSwUMOWU1qRVLjH8msi2bq7Fpw
 
 Simply extract the files and run Cubulus.exe to play!
 
