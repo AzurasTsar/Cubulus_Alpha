@@ -1,4 +1,8 @@
 # Cubulus_Alpha
+(UPDATE DEC 2019): CUBULUS full release now available on Google Play!
+https://play.google.com/store/apps/details?id=com.MwoudGames.CUBULUS
+
+
 DUE TO GITHUB'S FILE SIZE LIMIT, ALL VERSIONS FROM 1.2 ON CAN BE FOUND HERE:
 
 version 1.2 (6/26/19) https://drive.google.com/open?id=1my8Bu6Wxs25faipohq-wJkUBi5nN_Z4F 
